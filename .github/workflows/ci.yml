@@ -2,8 +2,8 @@ name: CI exemplo
 
 on:
   push:
-    branches:
-      - principal
+   branches:
+   - main
 
 jobs:
 
